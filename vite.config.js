@@ -9,4 +9,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/lockistry-website/',
+  build: {
+    outDir: 'docs',
+  },
 })
