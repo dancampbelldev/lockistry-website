@@ -1,0 +1,49 @@
+{
+  "lockPickTypes": [
+    {
+      "image": "tensionWrench",
+      "title": "Tension Wrench",
+      "text": "Primary use: Creating binding order and enabling all picking techniques\n\nThe most important tool in the kit. Controls how pins bind and set.\n\nTechnique:\n- Use extremely light pressure for security pins.\n- Reduce tension when spools or serrations counter-rotate.\n- Increase slightly if pins feel loose.\n\nBest for:\n- All lock types\n- Learning feedback and tactile control"
+    },
+    {
+      "image": "hookPick",
+      "title": "Hook Pick",
+      "text": "Primary use: Single Pin Picking (SPP)\n\nThe hook pick is the most precise tool, perfect for individually lifting pins to their exact shear line. Ideal for high-quality locks or those with narrow keyways.\n\nTechnique:\n- Apply very light tension.\n- Test pins front to back to find the binding pin.\n- Lift slowly until a clear click or reduction in tension occurs.\n- Repeat until plug rotates.\n\nBest for:\n- Standard pin tumbler locks\n- Spool, serrated, and mushroom pins\n- Deep-set or isolated pins\n- Paracentric keyways"
+    },
+    {
+      "image": "rakePick",
+      "title": "Rake Pick",
+      "text": "Primary use: Rapid entry using chaotic motion\n\nRakes manipulate multiple pins at once and work exceptionally well on low–medium security locks.\n\nTechnique:\n- Use moderate tension.\n- Scrub, rock, or zip the pick in the keyway.\n- Pause occasionally and add slight upward pressure.\n\nBest for:\n- Wide open keyways\n- Standard pin stacks\n- Quick entry\n- Low-security household locks"
+    },
+    {
+      "image": "diamondPick",
+      "title": "Diamond Pick",
+      "text": "Primary use: Hybrid SPP + Raking tool\n\nThe diamond's angled face excels at sliding under pins or raking across multiple stacks.\n\nTechnique:\nSPP:\n- Use the tip like a shallow hook.\n- Good for short pins or tight spaces.\n\nRaking:\n- Angle the pick and perform small back-and-forth movements.\n\nBest for:\n- Narrow/paracentric keyways\n- Mixed high/low pinning\n- Beginners learning hybrid techniques"
+    },
+    {
+      "image": "halfDiamondPick",
+      "title": "Half-Diamond Pick",
+      "text": "Primary use: Versatile pick for wafers, pin tumblers, and directional raking\n\nThe half-diamond’s shape makes it excellent for lifting pins and gliding across surfaces.\n\nTechnique:\n- Rocking motion on shallow pins\n- SPP with tip like a miniature hook\n- Raking by sweeping the angled face\n\nBest for:\n- Wafer locks\n- Master locks\n- Locks with shallow cuts"
+    },
+    {
+      "image": "snakeRake",
+      "title": "Snake Rake",
+      "text": "Primary use: Fast opening via rocking motion\n\nThe snake rake is shaped to match common pin patterns. It can open simple locks very quickly.\n\nTechnique:\n- Insert fully, add moderate tension.\n- Rock up and down while pulling outward.\n- Repeat 2–3 cycles.\n\nBest for:\n- Cheap padlocks\n- Filing cabinets\n- Standard residential locks\n- Beginner-friendly fast entry"
+    },
+    {
+      "image": "cityRake",
+      "title": "City Rake",
+      "text": "Primary use: Simulating a key’s biting pattern\n\nThe city rake imitates a general key shape and works via controlled rocking.\n\nTechnique:\n- Insert the rake.\n- Apply light rocking and jiggle motions.\n- Maintain consistent tension.\n\nBest for:\n- Locks with uniform pin heights\n- Older locks\n- Basic commercial locks"
+    },
+    {
+      "image": "deepHookPick",
+      "title": "Deep Hook / Offset Hook",
+      "text": "Primary use: High/low pin stacks + isolating security pins\n\nThe deep hook reaches pins a standard hook can't access.\n\nTechnique:\n- Very light tension required.\n- Carefully lift deep-set or recessed pins.\n- Ideal for isolating spools without oversetting neighbors.\n\nBest for:\n- Spool-heavy locks\n- Deep cuts\n- Paracentric keyways\n- European cylinders"
+    },
+    {
+      "image": "ballPick",
+      "title": "Ball Pick / Snowman pick",
+      "text": "Primary use: Wafer locks\n\nBall picks are designed to manipulate wafer locks found in cabinets, desks, and automotive systems.\n\nTechnique:\n- Use gentle rotational tension.\n- Rock the ball against wafers one at a time.\n- Feel for subtle clicks.\n\nBest for:\n- Single-sided wafer locks\n- Automotive locks\n- Filing cabinets and office furniture"
+    }
+  ]
+}

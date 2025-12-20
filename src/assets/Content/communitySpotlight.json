@@ -1,0 +1,34 @@
+[
+  {
+    "id": "locksport-events",
+    "title": "Locksport Competitions & Events",
+    "description": "Locksport competitions bring together enthusiasts from around the world to test skill, precision, and problem-solving under fair and ethical rules. These events range from local meets to international conventions and are a cornerstone of the locksport community.",
+    "imageKey": "community1",
+    "link": "https://toool.us/events/",
+    "linkLabel": "Explore Locksport Events"
+  },
+  {
+    "id": "workshops",
+    "title": "Workshops & Skill Development",
+    "description": "Hands-on workshops offer a structured way to learn lock mechanisms, non-destructive entry techniques, and tool use. Whether beginner or advanced, these sessions emphasize education, safety, and responsible practice.",
+    "imageKey": "community2",
+    "link": "https://www.lockpicking101.com/",
+    "linkLabel": "Learn About Workshops"
+  },
+  {
+    "id": "community-meetups",
+    "title": "Locksmithing on Facebook",
+    "description": "Dedicated Facebook groups, extend the locksmithing network beyond local boundaries. These spaces focus on discussion, shared learning, and experience exchange, helping both newcomers and seasoned practitioners stay connected, informed, and engaged with the wider craft.",
+    "imageKey": "community3",
+    "link": "https://toool.us/chapters/",
+    "linkLabel": "Find a Local Chapter"
+  },
+  {
+    "id": "professional-locksmithing",
+    "title": "Professional Locksmithing",
+    "description": "Beyond sport and hobbyist practice, professional locksmithing covers residential, commercial, automotive, and safe work. Ethical standards, training, and certification play a key role in maintaining trust and security.",
+    "imageKey": "community4",
+    "link": "https://www.uklocksmithsassociation.co.uk/",
+    "linkLabel": "About Professional Locksmithing"
+  }
+]

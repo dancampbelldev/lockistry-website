@@ -1,0 +1,28 @@
+{
+  "vendors": [
+    {
+      "name": "Sparrows",
+      "logo": "sparrowsLogo",
+      "website": "https://www.sparrowslockpicks.com/",
+      "description": "High-quality lock pick sets for hobbyists and professionals alike, offering a wide range of hooks, rakes, and tension tools suitable for various locks."
+    },
+    {
+      "name": "Peterson",
+      "logo": "petersonLogo",
+      "website": "https://www.thinkpeterson.com/",
+      "description": "Premium lock picks and tension tools used by locksmiths worldwide, known for durability and precision craftsmanship."
+    },
+    {
+      "name": "SouthOrd",
+      "logo": "southOrdLogo",
+      "website": "https://www.southord.com/",
+      "description": "Comprehensive selection of beginner and professional lock pick sets with specialized tools for pin tumblers, wafer locks, and more."
+    },
+    {
+      "name": "Multipick",
+      "logo": "multipickLogo",
+      "website": "https://www.multipick.com/",
+      "description": "Professional-grade locksmith tools and pick sets with ergonomic designs, suitable for pin, wafer, and disc-detainer locks."
+    }
+  ]
+}

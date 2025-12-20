@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title":"Pin Tumbler Locks",
+    "content":"Pin tumbler locks are the most common type of lock mechanism used in residential and commercial buildings. They operate by using a key that lifts a series of spring-loaded pins to precise heights so the lock’s plug can rotate. This design provides dependable everyday security and supports many enhanced cylinders. Pin tumblers are widely used on doors and padlocks because they are reliable, easy to standardize, and compatible with many manufacturers. For locksmiths, they are generally considered moderately easy to pick with the right tools and experience, although high-security pin systems with spool or serrated pins can significantly increase difficulty."
+  },
+  {
+    "id": 2,
+    "title":"Wafer Tumbler Locks",
+    "content":"Wafer tumbler locks use flat wafers instead of round pins. When the correct key is inserted, the wafers align to a neutral position that allows the lock to turn. They tend to be inexpensive and compact, which makes them popular in automotive locks, cabinets, desks, and other low-security applications. Their simplicity is a major advantage for manufacturing and installation, but it also makes them less resistant to picking or manipulation. Most locksmiths consider wafer locks fairly easy to pick due to their simple internal layout and fewer security features."
+  }
+]
