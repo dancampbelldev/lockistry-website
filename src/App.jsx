@@ -1,5 +1,5 @@
 import React, { useLayoutEffect } from 'react';
-import { Routes, Route, BrowserRouter as Router, useLocation } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import './App.css';
 import mainLogo from './assets/images/lockistry-logo-white.png';
 
@@ -28,7 +28,7 @@ const Wrapper = ({ children }) => {
 
 function App() {
   return (
-    <Router>
+    <>
       <Header logo={mainLogo} />
       <main className="main-content">
         <Wrapper>
@@ -38,8 +38,8 @@ function App() {
             <Route path="/lockinfo" element={<LockInfoPage />} />
             <Route path="/pickinfo" element={<PickInfoPage />} />
 
-            {/* Parent Latest page (currently Contact.jsx) */}
-            <Route path="/latest" element={<LatestPage />} /> 
+            {/* Parent Latest page */}
+            <Route path="/latest" element={<LatestPage />} />
 
             {/* Dynamic individual post pages */}
             <Route path="/latest/:postId" element={<LatestPost />} />
@@ -50,7 +50,7 @@ function App() {
         </Wrapper>
       </main>
       <Footer logo={mainLogo} />
-    </Router>
+    </>
   );
 }
 
