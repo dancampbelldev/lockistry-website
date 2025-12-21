@@ -28,7 +28,7 @@ function Footer({ logo }) {
   return (
     <footer className="bg-sky-900 text-stone-100 py-12 flex flex-col items-center space-y-8">
 
-      {/* Logo (internal link MUST use Link with HashRouter) */}
+      {/* Logo */}
       <Link to="/">
         <img src={logo} alt="Site Logo" className="w-40 cursor-pointer" />
       </Link>
@@ -78,7 +78,7 @@ function Footer({ logo }) {
         </div>
       )}
 
-      {/* Social Icons (external links stay <a>) */}
+      {/* Social Icons */}
       <div className="flex gap-6 mt-4">
         <a href="#" target="_blank" rel="noopener noreferrer">
           <img src={fbIcon} alt="Facebook" className="w-8 h-8 hover:opacity-70 transition" />
@@ -89,6 +89,16 @@ function Footer({ logo }) {
         <a href="#" target="_blank" rel="noopener noreferrer">
           <img src={xIcon} alt="X" className="w-8 h-8 hover:opacity-70 transition" />
         </a>
+      </div>
+
+      {/* Ethical & Legal Notice */}
+      <div className="px-4 sm:px-6 md:px-0 max-w-4xl text-center">
+        <p className="text-xs sm:text-sm text-stone-300 leading-relaxed">
+          Lockistry is an educational resource focused on locksport, mechanical understanding,
+          and security awareness. Techniques discussed are intended for use on locks you own
+          or have explicit permission to work on. Lockpicking laws vary by jurisdiction.
+          Readers are responsible for complying with local laws and acting ethically.
+        </p>
       </div>
 
       {/* Copyright */}
