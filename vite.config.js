@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/lockistry-website/',
+  base: '/',
   build: {
     outDir: 'docs',
   },
