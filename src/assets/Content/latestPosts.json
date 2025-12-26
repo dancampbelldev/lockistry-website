@@ -138,75 +138,155 @@
     }
   },
   {
-  "id": "understanding-false-sets",
-  "title": "Understanding the False Set: Recognising, Managing, and Overcoming a Common Picking Challenge",
-  "excerpt": "A false set is a familiar obstacle when picking pin-tumbler locks, often caused by security pins designed to mislead the picker. Learning to recognise and work through false sets is a key step in developing consistent, controlled technique.",
-  "category": "Lock Picking",
-  "tags": ["locksport", "pin-tumbler", "false-set", "skill-development"],
-  "date": "2025-12-14",
-  "author": "Editorial",
-  "readTime": "5 min",
-  "status": "published",
-  "images": {
-    "thumbnail": "false-set",
-    "hero": "false-set"
-  },
-  "route": "/latest/understanding-false-sets",
-  "content": {
-    "sections": [
-      {
-        "heading": "What Is a False Set?",
-        "body": [
-          "In pin-tumbler lock picking, a false set occurs when some pins are correctly set while one or more security pins bind in a way that partially rotates the plug, giving the impression that the lock is close to opening.",
-          "This rotation creates a sense of progress, but the lock remains secured. For many pickers, especially those transitioning beyond beginner locks, false sets can be confusing and frustrating if not properly understood.",
-          "False sets are a natural consequence of locks designed with countermeasures such as spool, serrated, or mushroom pins. Recognising the subtle difference between normal binding and a false set is essential for developing accurate tactile perception during practice."
-        ]
-      },
-      {
-        "heading": "Why False Sets Can Be Difficult to Manage",
-        "body": [
-          "A false set changes the internal geometry of the lock, altering how remaining pins bind and respond to pressure. Pins may feel springy, resist movement, or suddenly drop when tension is adjusted.",
-          "Without a clear understanding of what a false set feels like, it is easy to apply excessive tension or overset pins, which can stall progress or require resetting the lock entirely.",
-          "Because the plug can partially rotate, some pickers misinterpret the feedback and attempt to force the pins further, leading to overset pins or damaged feedback signals. Learning to pause, reassess, and apply gentle adjustments is a critical skill."
-        ]
-      },
-      {
-        "heading": "Security Pins and Their Role",
-        "body": [
-          "False sets are most commonly caused by security pins such as spool pins, serrated pins, and mushroom pins. These pins are intentionally shaped to catch at the shear line and rotate the plug prematurely.",
-          "When a spool pin is engaged, it often creates noticeable counter-rotation; an important signal that a picker is encountering a security feature rather than a standard pin.",
-          "Understanding the design of security pins helps pickers anticipate where false sets are likely to occur and allows them to distinguish between ordinary binding and deliberately engineered feedback."
-        ],
-        "image": {
-          "key": "false-set",
-          "type": "inline"
+    "id": "understanding-false-sets",
+    "title": "Understanding the False Set: Recognising, Managing, and Overcoming a Common Picking Challenge",
+    "excerpt": "A false set is a familiar obstacle when picking pin-tumbler locks, often caused by security pins designed to mislead the picker. Learning to recognise and work through false sets is a key step in developing consistent, controlled technique.",
+    "category": "Lock Picking",
+    "tags": ["locksport", "pin-tumbler", "false-set", "skill-development"],
+    "date": "2025-12-14",
+    "author": "Editorial",
+    "readTime": "5 min",
+    "status": "published",
+    "images": {
+      "thumbnail": "false-set",
+      "hero": "false-set"
+    },
+    "route": "/latest/understanding-false-sets",
+    "content": {
+      "sections": [
+        {
+          "heading": "What Is a False Set?",
+          "body": [
+            "In pin-tumbler lock picking, a false set occurs when some pins are correctly set while one or more security pins bind in a way that partially rotates the plug, giving the impression that the lock is close to opening.",
+            "This rotation creates a sense of progress, but the lock remains secured. For many pickers, especially those transitioning beyond beginner locks, false sets can be confusing and frustrating if not properly understood.",
+            "False sets are a natural consequence of locks designed with countermeasures such as spool, serrated, or mushroom pins. Recognising the subtle difference between normal binding and a false set is essential for developing accurate tactile perception during practice."
+          ]
+        },
+        {
+          "heading": "Why False Sets Can Be Difficult to Manage",
+          "body": [
+            "A false set changes the internal geometry of the lock, altering how remaining pins bind and respond to pressure. Pins may feel springy, resist movement, or suddenly drop when tension is adjusted.",
+            "Without a clear understanding of what a false set feels like, it is easy to apply excessive tension or overset pins, which can stall progress or require resetting the lock entirely.",
+            "Because the plug can partially rotate, some pickers misinterpret the feedback and attempt to force the pins further, leading to overset pins or damaged feedback signals. Learning to pause, reassess, and apply gentle adjustments is a critical skill."
+          ]
+        },
+        {
+          "heading": "Security Pins and Their Role",
+          "body": [
+            "False sets are most commonly caused by security pins such as spool pins, serrated pins, and mushroom pins. These pins are intentionally shaped to catch at the shear line and rotate the plug prematurely.",
+            "When a spool pin is engaged, it often creates noticeable counter-rotation; an important signal that a picker is encountering a security feature rather than a standard pin.",
+            "Understanding the design of security pins helps pickers anticipate where false sets are likely to occur and allows them to distinguish between ordinary binding and deliberately engineered feedback."
+          ],
+          "image": {
+            "key": "false-set",
+            "type": "inline"
+          }
+        },
+        {
+          "heading": "Recognising Counter-Rotation",
+          "body": [
+            "One of the most reliable indicators of a false set is counter-rotation, where the plug resists tension and attempts to turn back slightly as a pin is lifted.",
+            "Learning to distinguish true binding from counter-rotation requires patience and light tension. Rather than forcing movement, skilled pickers allow the plug to rotate backward just enough to set the pin cleanly.",
+            "Observing how the plug reacts to small incremental lifts provides critical feedback. Practicing with locks that include a mixture of standard and security pins allows pickers to develop intuition for how each pin type behaves during manipulation."
+          ]
+        },
+        {
+          "heading": "Technique Over Force",
+          "body": [
+            "Successfully working through a false set is less about strength and more about control. Reducing tension gradually while lifting the binding pin allows the security pin to pass the shear line without oversetting.",
+            "Maintaining relaxed hands, consistent tension, and deliberate pin movement helps prevent errors and builds confidence when encountering increasingly complex locks.",
+            "Mastering the false set involves focusing on feel, listening to subtle clicks, and interpreting minute changes in plug rotation. Over time, the picker develops a 'mental map' of the lock’s internal state, enabling smoother progression and fewer setbacks."
+          ]
+        },
+        {
+          "heading": "Developing Long-Term Skill",
+          "body": [
+            "False sets are not obstacles to be avoided, but opportunities to refine technique. Practicing on locks with known security pin configurations allows pickers to become familiar with the sensations associated with counter-rotation and clean setting.",
+            "Over time, experienced practitioners come to welcome false sets as confirmation that they are engaging with the lock correctly, using them as a guide rather than a hindrance.",
+            "Regularly incorporating false-set practice into training routines accelerates skill development and enhances overall dexterity, precision, and patience. The ability to recognise, adapt, and conquer false sets is a hallmark of an advanced picker."
+          ]
         }
-      },
-      {
-        "heading": "Recognising Counter-Rotation",
-        "body": [
-          "One of the most reliable indicators of a false set is counter-rotation, where the plug resists tension and attempts to turn back slightly as a pin is lifted.",
-          "Learning to distinguish true binding from counter-rotation requires patience and light tension. Rather than forcing movement, skilled pickers allow the plug to rotate backward just enough to set the pin cleanly.",
-          "Observing how the plug reacts to small incremental lifts provides critical feedback. Practicing with locks that include a mixture of standard and security pins allows pickers to develop intuition for how each pin type behaves during manipulation."
-        ]
-      },
-      {
-        "heading": "Technique Over Force",
-        "body": [
-          "Successfully working through a false set is less about strength and more about control. Reducing tension gradually while lifting the binding pin allows the security pin to pass the shear line without oversetting.",
-          "Maintaining relaxed hands, consistent tension, and deliberate pin movement helps prevent errors and builds confidence when encountering increasingly complex locks.",
-          "Mastering the false set involves focusing on feel, listening to subtle clicks, and interpreting minute changes in plug rotation. Over time, the picker develops a 'mental map' of the lock’s internal state, enabling smoother progression and fewer setbacks."
-        ]
-      },
-      {
-        "heading": "Developing Long-Term Skill",
-        "body": [
-          "False sets are not obstacles to be avoided, but opportunities to refine technique. Practicing on locks with known security pin configurations allows pickers to become familiar with the sensations associated with counter-rotation and clean setting.",
-          "Over time, experienced practitioners come to welcome false sets as confirmation that they are engaging with the lock correctly, using them as a guide rather than a hindrance.",
-          "Regularly incorporating false-set practice into training routines accelerates skill development and enhances overall dexterity, precision, and patience. The ability to recognise, adapt, and conquer false sets is a hallmark of an advanced picker."
-        ]
-      }
-    ]
+      ]
+    }
+  },
+  {
+    "id": "why-lock-picking-is-hard-at-first",
+    "title": "Why Lock Picking Is Hard at First (and Why That’s Normal)",
+    "excerpt": "Lock picking often feels frustrating and unintuitive in the beginning. This difficulty is not a sign of failure, but a natural part of learning a tactile, feedback-driven skill. Understanding why early progress is slow can help beginners stay patient, confident, and motivated.",
+    "category": "Lock Picking",
+    "tags": ["locksport", "beginners", "learning-curve", "practice", "mindset"],
+    "date": "2025-12-24",
+    "author": "Editorial",
+    "readTime": "7 min",
+    "status": "published",
+    "images": {
+      "thumbnail": "lock-picking-learning-curve",
+      "hero": "lock-picking-learning-curve"
+    },
+    "route": "/latest/why-lock-picking-is-hard-at-first",
+    "content": {
+      "sections": [
+        {
+          "heading": "The Expectation Gap",
+          "body": [
+            "Many people come to lock picking after seeing short demonstrations or videos where locks appear to open effortlessly. These demonstrations often hide the years of practice behind the result, creating the impression that success should come quickly.",
+            "When beginners attempt lock picking themselves, the reality feels very different. The lock offers unclear feedback, progress feels slow, and success appears inconsistent or absent altogether.",
+            "This gap between expectation and reality is one of the biggest sources of early frustration. Understanding that lock picking is a learned sensory skill, not a visual trick, helps reset expectations and removes unnecessary self-doubt."
+          ]
+        },
+        {
+          "heading": "Learning to Feel Instead of See",
+          "body": [
+            "Unlike many hobbies, lock picking provides almost no visual feedback. Progress depends entirely on subtle sensations transmitted through the pick and tension tool.",
+            "At first, these sensations feel indistinct and confusing. Pins may feel identical, spring pressure can mask binding, and it can be difficult to tell whether anything meaningful is happening inside the lock.",
+            "Over time, the hands and fingers gradually learn to recognise differences in resistance, movement, and response. This tactile awareness develops slowly and cannot be rushed. Early confusion is not a failure, but a sign that new sensory pathways are forming."
+          ]
+        },
+        {
+          "heading": "Why Tension Control Feels So Difficult",
+          "body": [
+            "Tension control is one of the most important skills in lock picking, and also one of the hardest to master early on. Beginners often apply too much tension in an attempt to force progress.",
+            "Excessive tension makes pins feel rigid, hides feedback, and increases the chance of oversetting. On the other hand, too little tension can cause pins to drop unexpectedly, making the lock feel unpredictable.",
+            "Finding the right balance requires experimentation and repeated mistakes. Struggling with tension is a universal experience among new pickers and an unavoidable step toward developing finesse and control."
+          ]
+        },
+        {
+          "heading": "Inconsistent Success Is Normal",
+          "body": [
+            "Many beginners experience a confusing pattern of occasional success followed by long periods of difficulty. Opening a lock once does not automatically lead to consistent results.",
+            "Early successes often involve a degree of luck rather than deliberate control. Replicating that success requires understanding why the lock opened and what feedback led to it.",
+            "As experience grows, luck gradually gives way to consistency. Accepting inconsistency as part of the process helps reduce frustration and encourages a healthier, more patient approach to practice."
+          ]
+        },
+        {
+          "heading": "Practice Locks Still Require Skill",
+          "body": [
+            "Beginner and practice locks are designed to be more approachable, but they are not effortless. Differences in manufacturing tolerances, pin configurations, and wear can make similar locks behave very differently.",
+            "A lock that provides poor feedback can feel discouraging, even when technique is sound. Difficulty with a practice lock does not automatically indicate poor skill.",
+            "Working with a small selection of known beginner-friendly locks allows pickers to build familiarity and confidence while avoiding unnecessary frustration caused by particularly uncooperative examples."
+          ],
+          "image": {
+            "key": "lock-picking-learning-curve",
+            "type": "inline"
+          }
+        },
+        {
+          "heading": "The Role of Frustration and Mental State",
+          "body": [
+            "Frustration has a direct impact on physical technique. As tension rises emotionally, it often increases physically as well, reducing sensitivity and control.",
+            "Lock picking rewards calm, deliberate movement and patience. Continuing to practice while frustrated often leads to diminishing returns.",
+            "Taking breaks, resetting expectations, and returning with a clear mind is an important part of learning. Progress often happens after rest, not through force."
+          ]
+        },
+        {
+          "heading": "You Are Not Behind",
+          "body": [
+            "Every experienced picker has struggled at the beginning. Confusion, stalled progress, and self-doubt are common experiences shared by nearly everyone who learns the skill.",
+            "Difficulty is not a sign that you lack ability, but evidence that you are engaging with a complex and subtle craft. The sensations that feel unclear now become familiar with time and repetition.",
+            "If lock picking feels hard, that means you are learning it correctly. You are not alone in your frustration, and you are not falling behind. With patience, consistency, and a calm mindset, progress comes... often quietly, and then all at once."
+          ]
+        }
+      ]
+    }
   }
-}
 ]
