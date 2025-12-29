@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-function ColumnTRIL(props) {
+function Reveal({ children, delay = 0, threshold = 0.2 }) {
   const ref = useRef(null);
   const [visible, setVisible] = useState(false);
 
@@ -9,23 +9,37 @@ function ColumnTRIL(props) {
       ([entry]) => {
         if (entry.isIntersecting) {
           setVisible(true);
-          observer.disconnect(); // animate once
+          observer.disconnect(); // reveal once
         }
       },
-      { threshold: 0.3 }
+      { threshold }
     );
 
     if (ref.current) observer.observe(ref.current);
     return () => observer.disconnect();
-  }, []);
+  }, [threshold]);
 
   return (
-    <section
+    <div
       ref={ref}
-      className="flex w-full bg-sky-950 text-white"
+      className={`
+        w-full flex flex-col items-center
+        motion-safe:transition-all
+        motion-safe:duration-[1000ms]
+        motion-safe:ease-out
+        ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"}
+      `}
+      style={{ transitionDelay: `${delay}ms` }}
     >
-      <div className="flex flex-col-reverse sm:flex-row w-full">
+      {children}
+    </div>
+  );
+}
 
+function ColumnTRIL(props) {
+  return (
+    <section ref={props.forwardedRef} className="flex w-full bg-sky-950 text-white">
+      <div className="flex flex-col-reverse sm:flex-row w-full">
         {/* Image (static) */}
         <div className="flex basis-full justify-center items-center">
           <img
@@ -35,53 +49,25 @@ function ColumnTRIL(props) {
           />
         </div>
 
-        {/* Text (animated on scroll) */}
+        {/* Text (reveals on scroll, per-element) */}
         <div className="basis-full flex flex-col justify-center items-center py-10">
+          <Reveal delay={0}>
+            <h2 className="text-2xl lg:text-3xl font-semibold text-center px-5">
+              {props.title}
+            </h2>
+          </Reveal>
 
-          <h2
-            className={`
-              text-2xl lg:text-3xl font-semibold text-center px-5
-              motion-safe:transition-all
-              motion-safe:duration-[1400ms]
-              motion-safe:ease-out
-              ${visible
-                ? "opacity-100 translate-y-0"
-                : "opacity-0 translate-y-6"}
-            `}
-          >
-            {props.title}
-          </h2>
+          <Reveal delay={150}>
+            <p className="w-[90%] mt-8 text-lg lg:text-xl font-light leading-relaxed">
+              {props.paragraph1}
+            </p>
+          </Reveal>
 
-          <p
-            className={`
-              w-[90%] mt-8 text-lg lg:text-xl font-light leading-relaxed
-              motion-safe:transition-all
-              motion-safe:duration-[1400ms]
-              motion-safe:ease-out
-              motion-safe:delay-300
-              ${visible
-                ? "opacity-100 translate-y-0"
-                : "opacity-0 translate-y-6"}
-            `}
-          >
-            {props.paragraph1}
-          </p>
-
-          <p
-            className={`
-              w-[90%] mt-6 text-lg lg:text-xl font-light leading-relaxed
-              motion-safe:transition-all
-              motion-safe:duration-[1400ms]
-              motion-safe:ease-out
-              motion-safe:delay-600
-              ${visible
-                ? "opacity-100 translate-y-0"
-                : "opacity-0 translate-y-6"}
-            `}
-          >
-            {props.paragraph2}
-          </p>
-
+          <Reveal delay={250}>
+            <p className="w-[90%] mt-6 text-lg lg:text-xl font-light leading-relaxed">
+              {props.paragraph2}
+            </p>
+          </Reveal>
         </div>
       </div>
     </section>
