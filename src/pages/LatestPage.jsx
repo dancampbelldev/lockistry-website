@@ -16,7 +16,10 @@ export default function LatestPage() {
     const tag = searchParams.get("tag");
 
     if (category) setActiveCategory(category);
+    else setActiveCategory("All");
+
     if (tag) setActiveTag(tag);
+    else setActiveTag(null);
   }, [searchParams]);
 
   // Sync filters to URL
@@ -69,7 +72,11 @@ export default function LatestPage() {
         {/* Posts Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredPosts.map(post => (
-            <LatestCard key={post.id} post={post} />
+            <LatestCard
+              key={post.id}
+              post={post}
+              setActiveTag={setActiveTag}
+            />
           ))}
         </div>
 

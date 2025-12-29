@@ -1,29 +1,25 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { postImages } from "../assets/imageMaps/postImages";
 
-export default function LatestCard({ post }) {
-  const navigate = useNavigate();
+export default function LatestCard({ post, setActiveTag }) {
   const images = postImages[post.images.thumbnail];
-
-  const handleTagClick = (e, tag) => {
-    e.preventDefault(); // prevent card navigation
-    navigate(`/contact?tag=${encodeURIComponent(tag)}`);
-  };
 
   return (
     <Link to={post.route}>
-      <article className="
-        bg-sky-900/60
-        border border-sky-800
-        rounded-2xl
-        overflow-hidden
-        flex flex-col
-        transition-all duration-300
-        hover:bg-sky-900/80
-        hover:border-sky-600
-        hover:shadow-xl
-        hover:shadow-black/30
-      ">
+      <article
+        className="
+          bg-sky-900/60
+          border border-sky-800
+          rounded-2xl
+          overflow-hidden
+          flex flex-col
+          transition-all duration-300
+          hover:bg-sky-900/80
+          hover:border-sky-600
+          hover:shadow-xl
+          hover:shadow-black/30
+        "
+      >
         {images?.thumbnail && (
           <img
             src={images.thumbnail}
@@ -54,8 +50,21 @@ export default function LatestCard({ post }) {
             {post.tags.map(tag => (
               <button
                 key={tag}
-                onClick={(e) => handleTagClick(e, tag)}
-                className="cursor-pointer text-xs px-3 py-1 rounded-full bg-sky-800/60 text-sky-300 hover:bg-sky-700 hover:text-sky-200 transition"
+                onClick={(e) => {
+                  e.preventDefault(); // stop card navigation
+                  setActiveTag(tag);
+                }}
+                className="
+                  cursor-pointer
+                  text-xs
+                  px-3 py-1
+                  rounded-full
+                  bg-sky-800/60
+                  text-sky-300
+                  hover:bg-sky-700
+                  hover:text-sky-200
+                  transition
+                "
               >
                 #{tag}
               </button>
