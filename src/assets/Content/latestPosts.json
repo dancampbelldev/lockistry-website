@@ -328,7 +328,11 @@
             "Ethical practice is foundational to locksport. Most communities follow a simple rule: never pick a lock that is in use or securing something of value.",
             "This principle protects both the practitioner and the reputation of the hobby as a whole. Ethical behavior ensures that locksport remains a respected discipline rather than a misunderstood activity.",
             "Experienced practitioners are often careful to model ethical conduct, encourage transparency, and discourage misuse of skills. Beginners benefit greatly from adopting these values early."
-          ]
+          ],
+          "image": {
+            "key": "locksport-ethics",
+            "type": "inline"
+          }
         },
         {
           "heading": "Understanding Legality and Local Laws",
@@ -364,5 +368,5 @@
         }
       ]
     }
-}
+ }
 ]
