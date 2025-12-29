@@ -82,7 +82,7 @@ function TWNavMenu1(props) {
 
       {/* Mobile Menu */}
       <div
-        className={`absolute lg:hidden top-24 left-0 w-full ${props.textColor} ${props.mobNavBackground}
+        className={`absolute lg:hidden top-28 left-0 w-full ${props.textColor} ${props.mobNavBackground}
         flex flex-col items-center gap-6 font-semibold text-lg transition-all
         ${isMenuOpen ? "opacity-100" : "opacity-0 pointer-events-none"}`}
         style={{ transition: "opacity 0.3s ease" }}
