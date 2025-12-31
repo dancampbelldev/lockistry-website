@@ -9,7 +9,7 @@ export default function LatestFilterBar({
     "Lock Picking",
     "Lock Design",
     "Security Claims",
-    "Community",
+    "Mindset",
     "Tool Design",
     "Legal & Ethics",
     "Myth Busting"
