@@ -28,7 +28,6 @@ import electronicSmartLockImage3 from "../assets/images/electronic-smart-lock-3.
 
 import magLockImage1 from "../assets/images/maglock-1.jpg";
 import magLockImage2 from "../assets/images/maglock-2.jpg";
-import magLockImage3 from "../assets/images/maglock-3.jpg";
 
 import dimpleLockImage1 from "../assets/images/dimple-lock-1.jpg";
 import dimpleLockImage2 from "../assets/images/dimple-lock-2.jpg";
@@ -52,7 +51,6 @@ const imageMap = {
   electronicSmartLockImage3,
   magLockImage1,
   magLockImage2,
-  magLockImage3,
   combinationLockImage1,
   combinationLockImage2,
   combinationLockImage3,
