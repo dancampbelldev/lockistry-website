@@ -6,6 +6,7 @@ import learningCurveThumb from "../images/post-images/thumbnails/lock-picking-le
 import locksportEthicsThumb from "../images/post-images/thumbnails/locksport-ethics.jpg";
 import beginnerLocksThumb from "../images/post-images/thumbnails/beginner-locks.jpg";
 import lockPickSetsThumb from "../images/post-images/thumbnails/lock-pick-sets.jpg";
+import hooksVsRakesThumb from "../images/post-images/thumbnails/hooks-vs-rakes.jpg";
 
 // Hero images
 import abusHero from "../images/post-images/hero/abus-granit-xplus.jpg";
@@ -15,6 +16,7 @@ import learningCurveHero from "../images/post-images/hero/lock-picking-learning-
 import locksportEthicsHero from "../images/post-images/hero/locksport-ethics.jpg";
 import beginnerLocksHero from "../images/post-images/hero/beginner-locks.jpg";
 import lockPickSetsHero from "../images/post-images/hero/lock-pick-sets.jpg";
+import hooksVsRakesHero from "../images/post-images/hero/hooks-vs-rakes.jpg";
 
 // Inline images
 import abusInline from "../images/post-images/inline/abus-granit-xplus.jpg";
@@ -24,6 +26,7 @@ import learningCurveInline from "../images/post-images/inline/lock-picking-learn
 import locksportEthicsInline from "../images/post-images/inline/locksport-ethics.jpg";
 import beginnerLocksInline from "../images/post-images/inline/beginner-locks.jpg";
 import lockPickSetsInline from "../images/post-images/inline/lock-pick-sets.jpg";
+import hooksVsRakesInline from "../images/post-images/inline/hooks-vs-rakes.jpg";
 
 export const postImages = {
   "abus-granit-xplus": {
@@ -60,5 +63,10 @@ export const postImages = {
     thumbnail: lockPickSetsThumb,
     hero: lockPickSetsHero,
     inline: lockPickSetsInline
+  },
+  "hooks-vs-rakes": {
+    thumbnail: hooksVsRakesThumb,
+    hero: hooksVsRakesHero,
+    inline: hooksVsRakesInline
   }
 };

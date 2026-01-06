@@ -528,5 +528,94 @@
         }
       ]
     }
+  },
+  {
+    "id": "hooks-vs-rakes-which-should-beginners-learn-first",
+    "title": "Hooks vs Rakes: Which Should Beginners Learn First?",
+    "excerpt": "Hooks and rakes are two of the most common lock picking tools, but they serve different purposes and reward different skills. Understanding how they differ helps beginners choose an appropriate learning path without unnecessary frustration or confusion.",
+    "category": "Mindset",
+    "tags": ["locksport", "beginners", "tools", "raking", "single-pin-picking"],
+    "date": "2026-01-07",
+    "author": "Editorial",
+    "readTime": "6 min",
+    "status": "published",
+    "images": {
+      "thumbnail": "hooks-vs-rakes",
+      "hero": "hooks-vs-rakes"
+    },
+    "route": "/latest/hooks-vs-rakes-which-should-beginners-learn-first",
+    "content": {
+      "sections": [
+        {
+          "heading": "Why Beginners Are Often Unsure Where to Start",
+          "body": [
+            "Most beginners encounter lock picking through videos, online discussions, or starter kits that prominently feature both hooks and rakes. Without context, it can be unclear which tools are intended for learning and which are situational.",
+            "This uncertainty often leads to switching between tools without understanding what each one is designed to accomplish.",
+            "Clarifying the role of hooks and rakes early helps beginners set realistic expectations and avoid unnecessary frustration."
+          ]
+        },
+        {
+          "heading": "What Rakes Are Designed to Do",
+          "body": [
+            "Rakes are designed to manipulate multiple pins at once by introducing broad, overlapping movement inside the lock while tension is applied.",
+            "Rather than targeting individual pins, raking relies on probability and timing, taking advantage of looser tolerances and simpler pin stacks.",
+            "This approach makes rakes particularly effective on basic locks where several pins can be set through combined motion rather than precise control."
+          ]
+        },
+        {
+          "heading": "Kinetic Raking vs Rocking Rakes",
+          "body": [
+            "Not all raking relies on the same type of motion. Some rakes are intended for fast, kinetic movement, while others are designed for more controlled, rocking interaction.",
+            "Kinetic raking typically involves rapid, varied movement that briefly lifts multiple pins in different combinations. This style benefits from speed and randomness rather than precision.",
+            "Rocking rakes, such as city-style profiles, are shaped to interact with pins at specific heights as the tool is gently rocked through the keyway. Instead of relying on speed, this approach uses the geometry of the rake to align with common pin configurations.",
+            "Both styles rely on the same underlying principle: creating opportunities for pins to set without deliberate, individual manipulation. The difference lies in how motion and shape are used to achieve that effect."
+          ]
+        },
+        {
+          "heading": "What Hooks Are Designed to Do",
+          "body": [
+            "Hooks are designed for single pin picking, where pins are lifted and set one at a time in response to binding order.",
+            "This method depends heavily on tactile feedback and controlled tension rather than broad movement.",
+            "Hooks are especially useful on locks with tighter tolerances or security pins, where combined motion is less effective and deliberate interaction becomes necessary."
+          ]
+        },
+        {
+          "heading": "Why Rakes Often Come First in the Learning Curve",
+          "body": [
+            "Raking tends to work on simpler locks and can produce openings more quickly, which makes it appealing to beginners.",
+            "Early success with rakes helps new pickers become familiar with tension, keyway space, and how locks respond to movement.",
+            "Although raking does not teach detailed pin control, it provides an accessible way to explore lock behaviour without requiring advanced sensitivity."
+          ],
+          "image": {
+            "key": "hooks-vs-rakes",
+            "type": "inline"
+          }
+        },
+        {
+          "heading": "Why Hooks Become More Important Over Time",
+          "body": [
+            "As beginners encounter locks with tighter tolerances or security pins, raking becomes less reliable.",
+            "At this stage, hooks allow for deliberate interaction with individual pins and clearer interpretation of feedback.",
+            "Learning to use hooks effectively often marks a transition from opening locks occasionally to understanding why a lock opens."
+          ]
+        },
+        {
+          "heading": "Choosing a Balanced Approach",
+          "body": [
+            "Rakes and hooks are not competing tools, but complementary ones.",
+            "Rakes can introduce beginners to lock behaviour and tension management, while hooks support deeper skill development and consistency.",
+            "Understanding the strengths and limitations of each tool allows beginners to progress naturally without feeling restricted to a single technique."
+          ]
+        },
+        {
+          "heading": "Progress Comes From Understanding, Not Tool Choice",
+          "body": [
+            "Neither rakes nor hooks guarantee success on their own. Both rely on the same foundational skills: controlled tension, sensitivity, and patience.",
+            "Tool choice matters far less than how deliberately those tools are used.",
+            "By recognising when broad motion is effective and when precision is required, beginners can build skill steadily and confidently over time."
+          ]
+        }
+      ]
+    }
   }
 ]
