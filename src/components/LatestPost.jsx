@@ -105,11 +105,6 @@ export default function LatestPost() {
                   <div className="text-xl font-semibold">
                     {recommendedPost.title}
                   </div>
-                  {recommendedPost.excerpt && (
-                    <p className="text-stone-300 leading-relaxed">
-                      {recommendedPost.excerpt}
-                    </p>
-                  )}
                 </div>
               </div>
             </Link>
