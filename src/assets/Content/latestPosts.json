@@ -617,5 +617,109 @@
         }
       ]
     }
+  },
+  {
+    "id": "single-pin-picking-explained-for-beginners",
+    "title": "Single Pin Picking Explained for Beginners",
+    "excerpt": "Single pin picking is often seen as the core skill of locksport, but it can feel slow and confusing when first encountered. Understanding what SPP is meant to teach, and what is physically happening inside the lock as pins set one by one, helps beginners approach it with patience and clearer expectations.",
+    "category": "Lock Picking",
+    "tags": ["locksport", "beginners", "single-pin-picking", "learning", "tactile-feedback"],
+    "date": "2026-01-12",
+    "author": "Editorial",
+    "readTime": "6 min",
+    "status": "published",
+    "images": {
+      "thumbnail": "single-pin-picking",
+      "hero": "single-pin-picking"
+    },
+    "route": "/latest/single-pin-picking-explained-for-beginners",
+    "content": {
+      "sections": [
+        {
+          "heading": "Why Single Pin Picking Feels Intimidating at First",
+          "body": [
+            "Many beginners encounter single pin picking after experiencing quicker success with raking. Compared to the broad motion and occasional luck of rakes, SPP can feel slow, deliberate, and unforgiving.",
+            "This contrast often creates the impression that SPP is more advanced or requires special talent. In reality, it simply demands closer attention to feedback and smaller, more controlled movements.",
+            "Understanding that difficulty is part of the learning process helps beginners approach SPP with patience rather than frustration."
+          ]
+        },
+        {
+          "heading": "What Single Pin Picking Actually Is",
+          "body": [
+            "Single pin picking is the process of lifting and setting pins one at a time in response to the lock’s binding order.",
+            "Inside a pin tumbler lock, each pin stack must be raised until the gap between the key pin and driver pin aligns with the shear line.",
+            "SPP focuses on finding which pin is preventing rotation and lifting it just enough for that separation to occur, allowing the plug to turn slightly and hold that pin in place."
+          ]
+        },
+        {
+          "heading": "Understanding Binding Order",
+          "body": [
+            "When tension is applied to the plug, slight manufacturing differences cause one pin stack to bind before the others.",
+            "This binding pin resists movement more than the rest and is the pin that must be addressed first.",
+            "As each pin is set, the plug rotates incrementally, changing which pin binds next. This sequence is known as the binding order and is central to single pin picking."
+          ]
+        },
+        {
+          "heading": "What It Means When a Pin Sets",
+          "body": [
+            "When a pin sets, the driver pin clears the shear line and remains above it due to the slight rotation of the plug.",
+            "This usually produces a small but noticeable change in feedback, often felt as a soft click or a subtle increase in plug rotation.",
+            "The click itself is not the goal, but a byproduct of the pin stack moving into a stable position. Learning to recognise this change is a key part of developing SPP skill."
+          ]
+        },
+        {
+          "heading": "Why Tension Matters More in SPP",
+          "body": [
+            "Tension plays a central role in single pin picking because it determines which pin binds and how clearly feedback is transmitted.",
+            "Excessive tension can prevent pins from moving smoothly, making it difficult for them to reach the shear line.",
+            "Too little tension, on the other hand, can cause set pins to drop back down as soon as pressure is released. Finding a balanced tension allows pins to set cleanly and stay set."
+          ]
+        },
+        {
+          "heading": "Learning to Read Feedback",
+          "body": [
+            "SPP depends on recognising subtle differences between pins that are binding, set, or overset.",
+            "A binding pin typically feels stiff or springy, while a set pin often feels loose or unresponsive when touched again.",
+            "These sensations are faint at first, but with repeated exposure, the differences become more distinct and easier to interpret."
+          ],
+          "image": {
+            "key": "single-pin-picking",
+            "type": "inline"
+          }
+        },
+        {
+          "heading": "Why Progress Feels Slower Than Raking",
+          "body": [
+            "Unlike raking, SPP rarely produces accidental openings.",
+            "Each successful open reflects deliberate interaction with individual pins rather than probability.",
+            "This slower pace can feel discouraging at first, but it builds a deeper understanding of lock behaviour that leads to greater consistency over time."
+          ]
+        },
+        {
+          "heading": "What Single Pin Picking Teaches Beginners",
+          "body": [
+            "SPP teaches controlled tension, patience, and sensitivity to feedback in a way few other techniques do.",
+            "It encourages deliberate movement and careful observation rather than speed or force.",
+            "These skills transfer directly to more complex locks and security pin configurations, making SPP a strong foundation for long-term progress."
+          ]
+        },
+        {
+          "heading": "When to Start Practicing SPP",
+          "body": [
+            "There is no single correct moment to begin learning single pin picking.",
+            "Some beginners benefit from early exposure, while others prefer to first build familiarity with lock behaviour through raking.",
+            "What matters most is approaching SPP as a learning process rather than a test of ability. Progress often appears gradually as feedback begins to make sense."
+          ]
+        },
+        {
+          "heading": "SPP Is About Understanding, Not Speed",
+          "body": [
+            "Single pin picking is not about opening locks as quickly as possible.",
+            "It is about understanding how pins respond to controlled input and how small changes affect the lock as a whole.",
+            "With patience and consistent practice, SPP becomes less mysterious and more intuitive, revealing the structure and logic behind the lock rather than relying on chance."
+          ]
+        }
+      ]
+    }
   }
 ]
