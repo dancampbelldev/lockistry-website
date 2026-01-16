@@ -809,5 +809,93 @@
         }
       ]
     }
+  },
+  {
+    "id": "why-oversets-happen",
+    "title": "Why Oversets Happen (and Why They’re Hard to Recognise)",
+    "excerpt": "Oversetting a pin is one of the most common sources of frustration in lock picking. Understanding what an overset actually is, how it changes feedback inside the lock, and why it can be difficult to detect helps pickers recognise when progress has stalled and why changing tension is often more effective than adding force.",
+    "category": "Lock Picking",
+    "tags": ["locksport", "oversets", "single-pin-picking", "feedback", "tension"],
+    "date": "2026-01-22",
+    "author": "Editorial",
+    "readTime": "4 min",
+    "status": "published",
+    "images": {
+      "thumbnail": "oversets",
+      "hero": "oversets"
+    },
+    "route": "/latest/why-oversets-happen",
+    "content": {
+      "sections": [
+        {
+          "heading": "What an Overset Actually Is",
+          "body": [
+            "In a pin tumbler lock, a pin is considered overset when the key pin is lifted past the shear line instead of stopping at it.",
+            "When this happens, the driver pin is no longer able to rest cleanly above the shear line, preventing the plug from rotating further.",
+            "Although the lock may initially feel close to opening, an overset pin mechanically blocks progress rather than contributing to it."
+          ]
+        },
+        {
+          "heading": "Why Oversets Are Easy to Create",
+          "body": [
+            "Oversets occur because the amount of lift required to set a pin correctly is very small and difficult to judge by feel alone.",
+            "Once a pin reaches the shear line, only a slight additional movement is needed to push it past the correct position.",
+            "Without clear feedback or deliberate control, it is easy to continue lifting even after a pin has already done its job."
+          ]
+        },
+        {
+          "heading": "How Oversets Change Lock Feedback",
+          "body": [
+            "One of the most confusing aspects of oversets is how they alter feedback inside the lock.",
+            "An overset pin can cause the lock to feel stiff, partially rotated, or strangely unresponsive to further input.",
+            "Because the plug is no longer rotating freely, other pins may stop binding normally, making it difficult to identify what is preventing the lock from opening."
+          ]
+        },
+        {
+          "heading": "Why Oversets Are Hard to Recognise",
+          "body": [
+            "Oversets rarely produce a clear or dramatic signal.",
+            "Beginners often expect mistakes to feel obvious, but an overset can feel very similar to normal resistance.",
+            "This ambiguity often leads pickers to continue applying force rather than reassessing tension or pin state."
+          ]
+        },
+        {
+          "heading": "Heavy Tension and Oversetting",
+          "body": [
+            "Excessive tension increases friction inside the lock and reduces the margin for error when lifting pins.",
+            "Under heavy tension, pins can bind aggressively and resist movement until additional force is applied.",
+            "When a pin finally moves under these conditions, it is easy to push it past the shear line without clearly feeling where the correct stopping point was."
+          ],
+          "image": {
+            "key": "oversets",
+            "type": "inline"
+          }
+        },
+        {
+          "heading": "Why Light Tension Can Also Cause Oversets",
+          "body": [
+            "Although heavy tension is commonly associated with oversets, very light tension can create its own problems.",
+            "With insufficient tension, pins may move too freely and fail to provide a distinct sense of when they reach the shear line.",
+            "Without clear resistance or a defined stop, pins can be lifted past the correct position before the picker realises a set has occurred."
+          ]
+        },
+        {
+          "heading": "Finding the Right Tension for the Lock",
+          "body": [
+            "There is no single correct tension level that works for every lock or every pin.",
+            "Different locks respond differently, and the amount of tension that provides clear feedback can change as pins are set.",
+            "Effective picking often involves adjusting tension dynamically rather than maintaining a fixed amount throughout the process."
+          ]
+        },
+        {
+          "heading": "Oversets as a Signal, Not a Failure",
+          "body": [
+            "Oversets are a normal part of learning and provide useful information about how a lock responds to input.",
+            "Recognising when feedback becomes vague or inconsistent helps indicate that tension or lift may need adjustment.",
+            "By treating oversets as feedback rather than mistakes, pickers develop better control, sensitivity, and understanding over time."
+          ]
+        }
+      ]
+    }
   }
 ]
