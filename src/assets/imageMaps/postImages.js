@@ -10,6 +10,7 @@ import hooksVsRakesThumb from "../images/post-images/thumbnails/hooks-vs-rakes.j
 import singlePinPickingThumb from "../images/post-images/thumbnails/single-pin-picking.jpg";
 import longVsShortHooksThumb from "../images/post-images/thumbnails/long-vs-short-hooks.jpg";
 import oversetsThumb from "../images/post-images/thumbnails/oversets.jpg";
+import pickingSpeedThumb from "../images/post-images/thumbnails/picking-speed.jpg";
 
 // Hero images
 import abusHero from "../images/post-images/hero/abus-granit-xplus.jpg";
@@ -23,6 +24,7 @@ import hooksVsRakesHero from "../images/post-images/hero/hooks-vs-rakes.jpg";
 import singlePinPickingHero from "../images/post-images/hero/single-pin-picking.jpg";
 import longVsShortHooksHero from "../images/post-images/hero/long-vs-short-hooks.jpg";
 import oversetsHero from "../images/post-images/hero/oversets.jpg";
+import pickingSpeedHero from "../images/post-images/hero/picking-speed.jpg";
 
 // Inline images
 import abusInline from "../images/post-images/inline/abus-granit-xplus.jpg";
@@ -36,6 +38,7 @@ import hooksVsRakesInline from "../images/post-images/inline/hooks-vs-rakes.jpg"
 import singlePinPickingInline from "../images/post-images/inline/single-pin-picking.jpg";
 import longVsShortHooksInline from "../images/post-images/inline/long-vs-short-hooks.jpg";
 import oversetsInline from "../images/post-images/inline/oversets.jpg";
+import pickingSpeedInline from "../images/post-images/inline/picking-speed.jpg";
 
 export const postImages = {
   "abus-granit-xplus": {
@@ -92,5 +95,10 @@ export const postImages = {
     thumbnail: oversetsThumb,
     hero: oversetsHero,
     inline: oversetsInline
+  },
+  "picking-speed": {
+    thumbnail: pickingSpeedThumb,
+    hero: pickingSpeedHero,
+    inline: pickingSpeedInline
   }
 };
