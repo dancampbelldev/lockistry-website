@@ -816,7 +816,7 @@
     "excerpt": "Oversetting a pin is one of the most common sources of frustration in lock picking. Understanding what an overset actually is, how it changes feedback inside the lock, and why it can be difficult to detect helps pickers recognise when progress has stalled and why changing tension is often more effective than adding force.",
     "category": "Lock Picking",
     "tags": ["locksport", "oversets", "single-pin-picking", "feedback", "tension"],
-    "date": "2026-01-22",
+    "date": "2026-01-20",
     "author": "Editorial",
     "readTime": "4 min",
     "status": "published",
@@ -898,92 +898,92 @@
       ]
     }
   },
-{
-  "id": "why-picking-speed-doesnt-mean-skill",
-  "title": "Why Picking Speed Doesn’t Mean Skill",
-  "excerpt": "Fast lock openings can be impressive, but speed alone is a poor measure of understanding. Learning why quick opens often rely on chance, why slow progress can reflect better control, and how consistency matters more than time helps pickers evaluate their progress more accurately.",
-  "category": "Mindset",
-  "tags": ["locksport", "beginners", "skill-development", "practice", "feedback"],
-  "date": "2026-01-26",
-  "author": "Editorial",
-  "readTime": "5 min",
-  "status": "published",
-  "images": {
-    "thumbnail": "picking-speed",
-    "hero": "picking-speed"
-  },
-  "route": "/latest/why-picking-speed-doesnt-mean-skill",
-  "content": {
-    "sections": [
-      {
-        "heading": "Why Speed Is an Attractive Measure",
-        "body": [
-          "Speed is one of the most visible and easily measured aspects of lock picking. A fast open looks decisive and confident, especially when viewed from the outside.",
-          "Videos, demonstrations, and early success stories often reinforce the idea that quicker openings reflect greater ability or mastery.",
-          "For beginners, this creates the expectation that improvement should naturally show up as faster and faster results, even when understanding is still developing."
-        ]
-      },
-      {
-        "heading": "How Fast Opens Often Happen",
-        "body": [
-          "Many fast opens rely on broad motion, probability, or favourable tolerances rather than deliberate control.",
-          "Techniques like raking can open some locks quickly by disturbing multiple pins at once and relying on chance alignment.",
-          "While these opens are still valid, they do not always indicate that the picker understands why the lock opened or how to repeat the result consistently."
-        ]
-      },
-      {
-        "heading": "Why Slow Picking Can Indicate Better Control",
-        "body": [
-          "Deliberate, slower picking often reflects careful tension management and attention to subtle feedback.",
-          "When a picker pauses to evaluate pin movement, resistance, or changes in plug rotation, they are actively learning rather than reacting.",
-          "This slower pace allows mistakes to be noticed and corrected, building a more reliable understanding of how the lock responds to input."
-        ]
-      },
-      {
-        "heading": "Consistency Matters More Than Time",
-        "body": [
-          "Opening a lock quickly once is far less meaningful than opening it repeatedly across multiple attempts.",
-          "Consistency indicates that the picker understands what actions lead to success rather than relying on favourable conditions or chance.",
-          "From a learning perspective, consistent results are a stronger signal of progress than occasional fast opens."
-        ]
-      },
-      {
-        "heading": "Why Chasing Speed Can Slow Progress",
-        "body": [
-          "Focusing on speed too early can encourage rushed movements, excessive force, and ignored feedback.",
-          "These habits often hide underlying issues rather than solving them, leading to confusion or plateaus later on.",
-          "In many cases, deliberately slowing down allows pickers to identify problems more quickly and improve faster over time."
-        ],
-        "image": {
-          "key": "picking-speed",
-          "type": "inline"
+  {
+    "id": "why-picking-speed-doesnt-mean-skill",
+    "title": "Why Picking Speed Doesn’t Mean Skill",
+    "excerpt": "Fast lock openings can be impressive, but speed alone is a poor measure of understanding. Learning why quick opens often rely on chance, why slow progress can reflect better control, and how consistency matters more than time helps pickers evaluate their progress more accurately.",
+    "category": "Mindset",
+    "tags": ["locksport", "beginners", "skill-development", "practice", "feedback"],
+    "date": "2026-01-22",
+    "author": "Editorial",
+    "readTime": "5 min",
+    "status": "published",
+    "images": {
+      "thumbnail": "picking-speed",
+      "hero": "picking-speed"
+    },
+    "route": "/latest/why-picking-speed-doesnt-mean-skill",
+    "content": {
+      "sections": [
+        {
+          "heading": "Why Speed Is an Attractive Measure",
+          "body": [
+            "Speed is one of the most visible and easily measured aspects of lock picking. A fast open looks decisive and confident, especially when viewed from the outside.",
+            "Videos, demonstrations, and early success stories often reinforce the idea that quicker openings reflect greater ability or mastery.",
+            "For beginners, this creates the expectation that improvement should naturally show up as faster and faster results, even when understanding is still developing."
+          ]
+        },
+        {
+          "heading": "How Fast Opens Often Happen",
+          "body": [
+            "Many fast opens rely on broad motion, probability, or favourable tolerances rather than deliberate control.",
+            "Techniques like raking can open some locks quickly by disturbing multiple pins at once and relying on chance alignment.",
+            "While these opens are still valid, they do not always indicate that the picker understands why the lock opened or how to repeat the result consistently."
+          ]
+        },
+        {
+          "heading": "Why Slow Picking Can Indicate Better Control",
+          "body": [
+            "Deliberate, slower picking often reflects careful tension management and attention to subtle feedback.",
+            "When a picker pauses to evaluate pin movement, resistance, or changes in plug rotation, they are actively learning rather than reacting.",
+            "This slower pace allows mistakes to be noticed and corrected, building a more reliable understanding of how the lock responds to input."
+          ]
+        },
+        {
+          "heading": "Consistency Matters More Than Time",
+          "body": [
+            "Opening a lock quickly once is far less meaningful than opening it repeatedly across multiple attempts.",
+            "Consistency indicates that the picker understands what actions lead to success rather than relying on favourable conditions or chance.",
+            "From a learning perspective, consistent results are a stronger signal of progress than occasional fast opens."
+          ]
+        },
+        {
+          "heading": "Why Chasing Speed Can Slow Progress",
+          "body": [
+            "Focusing on speed too early can encourage rushed movements, excessive force, and ignored feedback.",
+            "These habits often hide underlying issues rather than solving them, leading to confusion or plateaus later on.",
+            "In many cases, deliberately slowing down allows pickers to identify problems more quickly and improve faster over time."
+          ],
+          "image": {
+            "key": "picking-speed",
+            "type": "inline"
+          }
+        },
+        {
+          "heading": "Skill Shows in Control, Not Urgency",
+          "body": [
+            "Experienced pickers are often capable of fast opens, but they are equally comfortable taking their time.",
+            "Their speed comes from familiarity, control, and understanding rather than urgency or pressure.",
+            "The ability to adjust pace based on the lock, feedback, and situation is a clearer indicator of skill than raw speed alone."
+          ]
+        },
+        {
+          "heading": "Reframing Progress as Understanding",
+          "body": [
+            "Progress in lock picking is best measured by clarity of feedback and confidence in decision-making.",
+            "When pickers can explain why a lock opened, why it stalled, or why it behaves differently between attempts, real learning has occurred.",
+            "This kind of understanding develops through observation, reflection, and patience rather than rushing toward results."
+          ]
+        },
+        {
+          "heading": "Speed Follows Skill, Not the Other Way Around",
+          "body": [
+            "Speed is a by-product of understanding, not a prerequisite for it.",
+            "As control, sensitivity, and familiarity increase, faster opens often happen naturally without deliberate effort.",
+            "By prioritising feedback, consistency, and comprehension, pickers build skills that remain reliable across different locks and situations."
+          ]
         }
-      },
-      {
-        "heading": "Skill Shows in Control, Not Urgency",
-        "body": [
-          "Experienced pickers are often capable of fast opens, but they are equally comfortable taking their time.",
-          "Their speed comes from familiarity, control, and understanding rather than urgency or pressure.",
-          "The ability to adjust pace based on the lock, feedback, and situation is a clearer indicator of skill than raw speed alone."
-        ]
-      },
-      {
-        "heading": "Reframing Progress as Understanding",
-        "body": [
-          "Progress in lock picking is best measured by clarity of feedback and confidence in decision-making.",
-          "When pickers can explain why a lock opened, why it stalled, or why it behaves differently between attempts, real learning has occurred.",
-          "This kind of understanding develops through observation, reflection, and patience rather than rushing toward results."
-        ]
-      },
-      {
-        "heading": "Speed Follows Skill, Not the Other Way Around",
-        "body": [
-          "Speed is a by-product of understanding, not a prerequisite for it.",
-          "As control, sensitivity, and familiarity increase, faster opens often happen naturally without deliberate effort.",
-          "By prioritising feedback, consistency, and comprehension, pickers build skills that remain reliable across different locks and situations."
-        ]
-      }
-    ]
+      ]
+    }
   }
-}
 ]
